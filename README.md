@@ -1,13 +1,2 @@
-##### Project setup 
 
-```
-flaskcicd/
-├── .github/
-│   └── workflows/
-│       └── main.yml
-├── app.py
-├── Dockerfile
-├── requirements.txt
-├── README.md
-└── fenv
-```
+A simple flask web app that integrates basic ci-cd pipeline using github action workflow to build and push containerized app into a docker registry
