@@ -1,7 +1,7 @@
 #### Project setup 
 
 
-`
+```
 flaskcicd/
 ├── .github/
 │   └── workflows/
@@ -12,4 +12,4 @@ flaskcicd/
 ├── README.md
 └── fenv
 
-`
+```
