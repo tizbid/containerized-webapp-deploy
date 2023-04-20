@@ -11,5 +11,4 @@ flaskcicd/
 ├── requirements.txt
 ├── README.md
 └── fenv
-
 ```
